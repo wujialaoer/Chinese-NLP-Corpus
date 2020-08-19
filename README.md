@@ -26,6 +26,7 @@ the details of the corpus
 |Name|Description|Link|notes|
 |:-:|---|:-:|---|
 |CAIL2018|2018中国‘法研杯’法律智能挑战赛（任务：罪名预测、法条推荐、刑期预测）的数据，数据集共包括**268万**刑法法律文书，共涉及**183条**罪名，**202条**法条，刑期长短包括0-25年、无期、死刑。|[CAIL2018](https://cail.oss-cn-qingdao.aliyuncs.com/CAIL2018_ALL_DATA.zip)|[比赛官网](http://cail.cipsc.org.cn/), [github](https://github.com/thunlp/CAIL2018)|
+|CSL - Classification|[中文科学文献数据集(CSL)](https://github.com/P01son6415/CSL)中，选取自然科学相关学报的论文摘要根据[国家自然科学基金](http://www.nsfc.gov.cn/nsfc/cen/xmzn/2019xmzn/15/index.html)进行学科分类。|[CSL - Classification](https://github.com/P01son6415/CSL#3学科分类)||
 
 ### Sentiment Analysis and Rating
 |Name|Description|Link|notes|
@@ -47,6 +48,7 @@ the details of the corpus
 |awesome-chinese-nlp/Corpus 中文语料|https://github.com/crownpku/Awesome-Chinese-NLP#corpus-中文语料||
 |Large Scale Chinese Corpus for NLP|https://github.com/brightmart/nlp_chinese_corpus||
 |中文自然语言处理数据集|https://github.com/InsaneLife/ChineseNLPCorpus||
+|funNLP|<https://github.com/fighting41love/funNLP>||
 
 
 ## Medical Domain
@@ -74,5 +76,7 @@ collect corpus for Chinese medical domain, including medical terminology, QA, cl
 ### Others
 |Name|Description|Link|notes|
 |:-:|---|:-:|---|
-|medical-books|Open sourece medical books in LaTeX|<https://github.com/scienceasdf/medical-books>||
-|awesome_Chinese_medical_NLP|中文医学NLP公开资源整理|https://github.com/GanjinZero/awesome_Chinese_medical_NLP||
+|medical-books|Open sourece medical books in LaTeX|[medical-books](https://github.com/scienceasdf/medical-books)|       |
+| awesome_Chinese_medical_NLP | 中文医学NLP公开资源整理|[awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP) |       |
+|Chinese_medical_NLP|医疗NLP领域（主要关注中文）评测数据集与论文等相关资源。|[Chinese_medical_NLP](https://github.com/lrs1353281004/Chinese_medical_NLP) |       |
+
